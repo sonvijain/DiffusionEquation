@@ -10,6 +10,11 @@ This code:
 - Supports **Adam and L-BFGS optimizers** for training.
 - Provides **visualizations of the learned solution** against the exact solution.
 
+![Img1](https://github.com/user-attachments/assets/e969cad4-423f-4f3e-b07c-fe86c1aca01d)
+![Img2](https://github.com/user-attachments/assets/95c3bed3-9649-489f-b9c9-9c7ad35b173e)
+
+
+
 ## References
 Followed [this](http://www.google.frhttps://github.com/jdtoscano94/Learning-Scientific_Machine_Learning_Residual_Based_Attention_PINNs_PIKANs_DeepONets/ "this") tutorial by Juan Diego Toscano.
 
