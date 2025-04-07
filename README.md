@@ -15,8 +15,7 @@ This code:
 
 
 
-## References
-Followed [this](http://www.google.frhttps://github.com/jdtoscano94/Learning-Scientific_Machine_Learning_Residual_Based_Attention_PINNs_PIKANs_DeepONets/ "this") tutorial by Juan Diego Toscano.
+
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
